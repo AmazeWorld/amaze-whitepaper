@@ -1,1 +1,2 @@
-# amaze-whitepaper
+# Amaze Whitepaper
+Repository for Amaze World Whitepaper.
